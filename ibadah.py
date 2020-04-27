@@ -424,7 +424,3 @@ if __name__=='__main__':
             pass
       
       menu()
-     
-Astaghfirullah.. Ukhty lupa ngidupin jaringannya')
-            exit()
-      print(lg+'Mengupdate..\nLama tidaknya tergantung jaringan, sabarr :)
