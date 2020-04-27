@@ -1,10 +1,11 @@
 # Ibadah
 Ingat Ibadah Itu Wajib Gan
-
-#Cara Pemakaian
-$ apt Update && upgrade
-$ pkg install python
-$ pkg install git
-$ git clone https://github.com/Botak-Haxor/Ibadah
-$ cd ibadah
+</br>
+</br>
+#Cara Pemakaian</br>
+$ apt Update && upgrade</br>
+$ pkg install python</br>
+$ pkg install git</br>
+$ git clone https://github.com/Botak-Haxor/Ibadah</br>
+$ cd Ibadah</br>
 $ python ibadah.py
